@@ -9,7 +9,7 @@ public class Curso {
     //Atributos
     public String nombreCurso;
     public int codigo;
-    public String listaEstudiantes;
+    public Estudiante[] listaEstudiantes;
     
     //Métodos
     public void agregarEstudiante(){

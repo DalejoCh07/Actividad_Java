@@ -9,7 +9,7 @@ public class Estudiante {
     //Atributos
     public String nombre;
     public int identificacion;
-    public int calificacion;
+    public double calificacion;
     
     //Métodos
     public void entrarCurso(){
